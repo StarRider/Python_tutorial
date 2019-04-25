@@ -1,2 +1,2 @@
 # Python_tutorial
-This is tutorial about the fundamentals of python 3.x.
+This is a tutorial about the fundamentals of python 3.x.
