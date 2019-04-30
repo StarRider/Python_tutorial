@@ -15,6 +15,6 @@ print(num**3)
 ```
 
 <h3>Inheritance</h3>
-1. What is super() method used for?
+1. What is super() method used for?<br>
 2. What is method overriding?
 
