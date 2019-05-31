@@ -41,11 +41,12 @@ class SimpleClass:
     @classmethod
     def fun3(cls,num):
         '''
-        Class method can access anything in the class.
-        No need of object creation to call this function.
+        Class method can only access static variables and static function 
+        in the class. No need of object creation to call this function.
         It has the power to change the static variables. Without creating objects.
         '''
         cls.stat = cls.fun2(num)
+        
         
         
 if __name__ == "__main__":
